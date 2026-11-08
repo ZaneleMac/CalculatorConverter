@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macha\\OneDrive\\Documents\\Zhuwa_Academy\\CalculatorConverterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE4B247-E8E2-426C-B4CB-14B0AF39BB3A}|CalculatorConverterApp.csproj|c:\\users\\macha\\onedrive\\documents\\zhuwa_academy\\calculatorconverterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE4B247-E8E2-426C-B4CB-14B0AF39BB3A}|CalculatorConverterApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macha\\OneDrive\\Documents\\Zhuwa_Academy\\CalculatorConverterApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\macha\\OneDrive\\Documents\\Zhuwa_Academy\\CalculatorConverterApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T11:30:06.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
