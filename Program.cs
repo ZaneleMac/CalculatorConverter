@@ -27,7 +27,7 @@ class Program
                     {
                         if (op == "+")
                         {
-                            Console.WriteLine($"Rewult: {num1} + {num2} = {num1 + num2}");
+                            Console.WriteLine($"Result: {num1} + {num2} = {num1 + num2}");
                         }
                         else if (op == "-")
                         {
@@ -45,7 +45,7 @@ class Program
 
                             } else
                             {
-                                Console.WriteLine("Error: Cannot be divide by zero");
+                                Console.WriteLine("Error: Cannot be dividedg by zero");
                             }
                         }
                     }
@@ -65,10 +65,10 @@ class Program
                 Console.Write("Enter Kilometers: ");
                 if (double.TryParse(Console.ReadLine(), out double km))
                 {
-                    double miles = km * 0.631371;
+                    double miles = km * 0.621371;
                     Console.WriteLine($"{km} km = {miles:F2} miles");
                 }
-                else { Console.WriteLine("Imnvalid input "); }
+                else { Console.WriteLine("Invalid input "); }
             }
             else if (choice == "3")
             {
@@ -88,7 +88,7 @@ class Program
                     Console.Write("Enter exchange rate (1 GHS to USD): ");
                     if (double.TryParse(Console.ReadLine(), out double rate))
                     {
-                        double usd = ghs * rate;
+                        double usd = ghs / rate;
                         Console.WriteLine($"{ghs} GHS = ${usd:F2} USD");
                     }
                     else { Console.WriteLine("Invalid rate."); }

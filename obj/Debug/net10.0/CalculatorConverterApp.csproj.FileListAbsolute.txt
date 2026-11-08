@@ -1,0 +1,16 @@
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\bin\Debug\net10.0\CalculatorConverterApp.exe
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\bin\Debug\net10.0\CalculatorConverterApp.deps.json
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\bin\Debug\net10.0\CalculatorConverterApp.runtimeconfig.json
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\bin\Debug\net10.0\CalculatorConverterApp.dll
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\bin\Debug\net10.0\CalculatorConverterApp.pdb
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.AssemblyInfoInputs.cache
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.AssemblyInfo.cs
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.sourcelink.json
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.dll
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\refint\CalculatorConverterApp.dll
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.pdb
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\CalculatorConverterApp.genruntimeconfig.cache
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\ref\CalculatorConverterApp.dll
+C:\Users\macha\OneDrive\Documents\Zhuwa_Academy\CalculatorConverterApp\obj\Debug\net10.0\Calculat.02F6DC19.Up2Date
